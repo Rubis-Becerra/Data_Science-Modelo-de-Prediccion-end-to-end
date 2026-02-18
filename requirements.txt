@@ -67,6 +67,7 @@ packaging==25.0
 pandas==2.3.3
 pandocfilters==1.5.1
 parso==0.8.5
+patsy==1.0.2
 pillow==12.1.0
 platformdirs==4.5.1
 prometheus_client==0.23.1
@@ -88,11 +89,13 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rpds-py==0.30.0
+scipy==1.17.0
 seaborn==0.13.2
 Send2Trash==1.8.3
 six==1.17.0
 soupsieve==2.8.1
 stack-data==0.6.3
+statsmodels==0.14.6
 terminado==0.18.1
 tinycss2==1.4.0
 tornado==6.5.4
