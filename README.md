@@ -1,13 +1,20 @@
 # 📊 Predicción de Ventas | Proyecto de Data Science
  
- <img src="https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-555555?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-555555?style=flat"/>
   <img src="https://img.shields.io/badge/Seaborn-555555?style=flat"/> 
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-555555?style=flat"/>
-  <img src="https://img.shields.io/badge/Statsmodels-Statistical-555555?style=flat"/>  
+  <img src="https://img.shields.io/badge/Statsmodels-Statistical-555555?style=flat"/> 
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Estado-Completado-555555?style=flat"/>
 </p>
 
