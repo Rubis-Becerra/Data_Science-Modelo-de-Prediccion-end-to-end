@@ -1,15 +1,16 @@
 # 📊 Predicción de Ventas | Proyecto de Data Science
  
- <img src="https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NumPy-555555?style=flat&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Matplotlib-555555?style=flat"/> 
+ <img src="https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-555555?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-555555?style=flat"/>
   <img src="https://img.shields.io/badge/Seaborn-555555?style=flat"/> 
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-555555?style=flat"/>  
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-555555?style=flat"/>
   <img src="https://img.shields.io/badge/Statsmodels-Statistical-555555?style=flat"/>  
   <img src="https://img.shields.io/badge/Estado-Completado-555555?style=flat"/>
 </p>
+
 
 **Análisis y Predicción de Ventas en el Rubro Farmacéutico**  
 👩‍💻 *Rubis Becerra*
@@ -27,7 +28,7 @@ Analizar los factores que explican las ventas (*Sales*) y desarrollar un modelo 
 - 🔗 Fuerte correlación: **Sales vs Quantity (r = 0.75)**  
 - 🔗 Baja correlación: **Sales vs Price (r = 0.12)**  
 
-👉 Las ventas están impulsadas principalmente por el **volumen**, no por el precio
+👉 Las ventas están fuertemente influenciadas por el volumen vendido (Quantity), mientras que el precio presenta una baja capacidad explicativa de forma aislada.
 
 
 ## 🤖 Enfoque de Modelado
@@ -43,7 +44,7 @@ Dado que:
 
 > **Sales = Price × Quantity**
 
-Se selecciona el modelo **sin Quantity** para evitar relaciones mecánicas y asegurar aplicabilidad en predicción ex-ante.
+Se selecciona como modelo final de predicción **sin Quantity** para evitar relaciones mecánicas y asegurar aplicabilidad en predicción ex-ante.
 
 
 ## ⚙️ Modelo Utilizado
